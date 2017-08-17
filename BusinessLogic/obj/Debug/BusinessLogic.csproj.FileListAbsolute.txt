@@ -1,0 +1,9 @@
+C:\Users\user\documents\visual studio 2015\Projects\guidgenerator\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\user\documents\visual studio 2015\Projects\guidgenerator\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\user\documents\visual studio 2015\Projects\guidgenerator\BusinessLogic\bin\Debug\DataAcess.dll
+C:\Users\user\documents\visual studio 2015\Projects\guidgenerator\BusinessLogic\bin\Debug\DataAcess.pdb
+C:\Users\user\documents\visual studio 2015\Projects\guidgenerator\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2015\Projects\guidgenerator\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\user\documents\visual studio 2015\Projects\guidgenerator\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\user\documents\visual studio 2015\Projects\guidgenerator\BusinessLogic\bin\Debug\Entidades.dll
+C:\Users\user\documents\visual studio 2015\Projects\guidgenerator\BusinessLogic\bin\Debug\Entidades.pdb

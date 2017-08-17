@@ -1,0 +1,4 @@
+C:\Users\user\documents\visual studio 2015\Projects\guidgenerator\Entidades\bin\Debug\Entidades.dll
+C:\Users\user\documents\visual studio 2015\Projects\guidgenerator\Entidades\bin\Debug\Entidades.pdb
+C:\Users\user\documents\visual studio 2015\Projects\guidgenerator\Entidades\obj\Debug\Entidades.dll
+C:\Users\user\documents\visual studio 2015\Projects\guidgenerator\Entidades\obj\Debug\Entidades.pdb
