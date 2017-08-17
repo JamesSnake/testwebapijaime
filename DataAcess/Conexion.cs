@@ -12,7 +12,7 @@ namespace DataAcess
     {
         public string ProbarConexion(ParametroRequest item) {
             string CadenaConexion = "";
-            string Respuesta = "conecto!";
+            string Respuesta = "conecto!!!";
             //Integrated Security=SSPI;
 
             if (item.IntegrateSecurity)
